@@ -98,13 +98,13 @@ body {
     width: 30vw;
     height: 60vh;
     border-radius: 10px;
-    margin-left: 10vw;
+    margin-left: 30vw;
 }
 
 .congestion-update {
     margin-top: 1rem;
     color: #666;
-    margin-left: 10vw;
+    margin-left: 30vw;
 }
 
 
